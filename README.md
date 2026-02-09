@@ -3,7 +3,7 @@
 ### 准备工作:
 adb设置setenforce 0
 
-libs目录里面放个libfrida-gum.a和libQBDI.a
+在项目的最外层创建libs目录里面放个libfrida-gum.a和libQBDI.a。
 
 >其中libQBDI.a在项目qbdi的QBDI-0.12.1-android-AARCH64.tar.gz里面,libfrida-gum.a在frida的frida-gum-devkit-16.5.9-android-arm64.tar.xz
 里面
