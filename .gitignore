@@ -1,0 +1,10 @@
+# 忽略 CMake 构建目录
+cmake-build-arm64/
+
+# 忽略 macOS 系统生成的隐藏文件
+.DS_Store
+
+# 忽略 IntelliJ IDEA 编辑器的配置目录
+.idea/
+
+libs/*
